@@ -1,1 +1,1 @@
-print('Hellow World')
+print('Привет МИР')
